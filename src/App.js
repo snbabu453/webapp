@@ -10,18 +10,18 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>This is form master branch - app test</p>
+        <p>This is form first branch - app test</p>
         <a
           className="App-link"
-          href="http://www.imaginnovate.com/"
+          href="http://testmanage.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click here to navigate to imaginnovate website
+          Click here to navigate to imaginnovate testmanage account
         </a>
       </header>
     </div>
-  );
+  );s
 }
 
 export default App;
