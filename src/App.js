@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>This is form master branch - app test</p>
+        <p>This is form master branch - app test updated</p>
         <a
           className="App-link"
           href="http://www.imaginnovate.com/"
